@@ -2,3 +2,9 @@
 
 * hello world 1
 * 눈누난나!
+
+![드가 이미지](img/degas.jpg)
+
+```py
+print('hello')
+```
